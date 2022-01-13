@@ -1,6 +1,6 @@
 public class ProcesoLista {
     public static void main(String[] args) {
-        System.out.println("Holagg");
+        System.out.println("Adiosgg");
         if(args.length == 0){
             System.out.println("Faltan argumentos");
             System.exit(1);
